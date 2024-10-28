@@ -1,5 +1,6 @@
 Name of Project: Weather App
 <br>
+<br>
 Overview: The Weather App is a simple web application that allows users to check real-time weather information for any city around the world. This application utilizes the OpenWeatherMap API to fetch current weather data, providing temperature, humidity, and weather conditions in an easy-to-read format.
 
 Features:
@@ -14,7 +15,6 @@ Technologies Used:
 <br>JavaScript: Functionality for fetching data from the API and updating the UI.
 <br>OpenWeatherMap API: Real-time weather data integration.
 
-Getting Started:
 
 Prerequisites:
 <br>A web browser (e.g., Chrome, Firefox, Safari).

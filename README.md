@@ -46,9 +46,12 @@ Troubleshooting:
 <br>Ensure that the city name is spelled correctly and is a valid location.
 
 
-Contributions are welcome! If you have suggestions for improvements or features, feel free to open an issue or submit a pull request.
-
 Acknowledgements:
 <br>OpenWeatherMap for providing the weather API.
 <br>Inspiration from various weather applications and tutorials available online.
+
+
+Contributions are welcome! If you have suggestions for improvements or features, feel free to open an issue or submit a pull request.
+<br>
+Thank You.
 
